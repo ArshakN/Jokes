@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jokes App</string>
+    <string name="jokes">Jokes</string>
+    <string name="title_people">Web</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reload">RELOAD</string>
+    <string name="hint_count">Count</string>
+    <string name="error_message">An Error occurred while loading data</string>
+</resources>

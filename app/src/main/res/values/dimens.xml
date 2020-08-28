@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_margin">50dp</dimen>
+    <dimen name="item_margin">10dp</dimen>
+    <dimen name="item_tv_size">20sp</dimen>
+    <dimen name="edit_text_bottom_margin">20dp</dimen>
+</resources>
